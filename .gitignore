@@ -3,3 +3,7 @@
 org.eclipse.ltk.core.refactoring.prefs
 *.zip
 *.csv
+untitled
+Linear-checkpoint.ipynb
+Logistic-checkpoint.ipynb
+Possion-checkpoint.ipynb
